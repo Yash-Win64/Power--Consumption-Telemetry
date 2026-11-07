@@ -1,4 +1,4 @@
-GPU & AI Model Power and Energy Analytics Dashboard
+#GPU & AI Model Power and Energy Analytics Dashboard
 
 Analyse GPU infrastructure and AI model energy usage—with an LLM-powered assistant that helps teams understand their KPIs, interpret patterns, and make better-informed decisions.
 
